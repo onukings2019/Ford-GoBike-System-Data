@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/37084812/how-to-remove-decimal-points-in-pandas
+https://stackoverflow.com/questions/48511484/data-type-conversion-error-valueerror-cannot-convert-non-finite-values-na-or
+https://stackoverflow.com/questions/46658232/pandas-convert-column-with-year-integer-to-datetime
+https://stackoverflow.com/questions/49575897/cant-replace-0-to-nan-in-python-using-pandas
